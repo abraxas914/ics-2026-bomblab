@@ -629,4 +629,5 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOPEN0 3647385875 3063319536
 ```
 
 实际观察：前六关均出现对应的 defused 信息，随后出现 `Secret phase defused.`。
+![六关与 Honor 完成输出](images/honor-final-validation.png)
 该次运行分别记录求解器退出码为 `0`、bomb退出码为 `0`，
